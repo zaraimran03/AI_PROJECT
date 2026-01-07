@@ -1,0 +1,211 @@
+{
+  "greetings":[
+    {
+        "question": "hello",
+        "answer": "Hello! How can I assist you with university information today?"
+    },
+    {
+        "question": "hi",
+        "answer": "Hi there! What would you like to know about our university?"
+    },
+    {
+        "question": "good morning",
+        "answer": "Good morning! How can I help you with your university queries?"
+    },
+    {
+        "question": "good afternoon",
+        "answer": "Good afternoon! What information do you need about the university?"
+    },
+    {
+        "question": "good evening",
+        "answer": "Good evening! How may I assist you with university-related questions?"
+    },
+    {
+        "question": "hey",
+        "answer": "Hey! What can I do for you regarding our university?"
+    },
+    {
+        "question": "greetings",
+        "answer": "Greetings! How can I help you with university information?"
+    },
+    {
+        "question": "welcome",
+        "answer": "Welcome! What would you like to know about our university?"
+    },
+    {
+        "question": "how are you",
+        "answer": "I'm just a bot, but I'm here to help you with any university information you need!"
+    },
+    {
+        "question": "what's up",
+        "answer": "I'm here to assist you with university information. What would you like to know?"
+    }
+  ],
+  "courses": [
+    {
+        "question": "what computer science courses are available",
+        "answer": "We offer: Introduction to Programming, Data Structures, Algorithms, Database Systems, Artificial Intelligence , Machine Learning, Web Development, and Software Engineering."
+    },
+    {
+        "question": "what engineering programs do you have",
+        "answer": "We have Mechanical Engineering, Electrical Engineering, Civil Engineering, and Computer Engineering programs."
+    },
+    {
+        "question": "business courses",
+        "answer": "We offer Business Administration, Accounting, Finance, Marketing, and Entrepreneurship programs."
+    },
+    {
+        "question": "what courses can I take",
+        "answer": "We offer courses in Computer Science, Engineering, Business, Arts, Sciences, and more. What field are you interested in?"
+    },
+    {
+        "question": "online courses availability",
+        "answer": "We offer a selection of online and hybrid courses across multiple disciplines."
+    },
+    {
+        "question": "postgraduate programs",
+        "answer": "We offer master's programs in Computer Science, Engineering, Business Administration, and Data Science."
+    },
+    {
+        "question": "short-term or certificate courses",
+        "answer": "We offer certificate programs in Web Development, Data Analytics, Cybersecurity, and Project Management."
+    },
+    {
+        "question": "elective courses",
+        "answer": "Students can choose from a wide range of elective courses across different departments."
+    },
+    {
+        "question": "arts and humanities courses",
+        "answer": "We offer courses in History, Psychology, Sociology, Literature, and Fine Arts."
+    },
+    {
+        "question": "science courses",
+        "answer": "We offer courses in Physics, Chemistry, Mathematics, Biology, and Environmental Science."
+    }
+],
+
+     "admissions": [
+    {
+        "question": "admission requirements",
+        "answer": "Requirements include: High school diploma, minimum GPA of 3.0, SAT/ACT scores, and letters of recommendation."
+    },
+    {
+        "question": "application deadline",
+        "answer": "The application deadline for Fall semester is January 15th and for Spring semester is October 1st."
+    },
+    {
+        "question": "how to apply",
+        "answer": "You can apply online through our university portal or submit a paper application to the admissions office."
+    },
+    {
+        "question": "when can I apply",
+        "answer": "Applications are accepted year-round, but priority deadlines are January 15th for Fall and October 1st for Spring."
+    },
+    {
+        "question": "admission process",
+        "answer": "The admission process includes application submission, document review, and final admission decision."
+    },
+    {
+        "question": "international student admissions",
+        "answer": "International students must meet academic requirements and provide proof of English language proficiency."
+    },
+    {
+        "question": "transfer admissions",
+        "answer": "Transfer students must submit previous academic transcripts and meet minimum credit requirements."
+    },
+    {
+        "question": "entry test requirement",
+        "answer": "Some programs may require an entry test or interview as part of the admission process."
+    },
+    {
+        "question": "application fee",
+        "answer": "A non-refundable application processing fee is required at the time of submission."
+    },
+    {
+        "question": "admission decision timeline",
+        "answer": "Admission decisions are typically communicated within 4–6 weeks after application submission."
+    }
+],    
+    
+        "campus": [
+    {
+        "question": "where is the campus located",
+        "answer": "Our campus is located at 1-Km Defence Rd, near Bhuptian Chowk, Lahore."
+    },
+    {
+        "question": "campus facilities",
+        "answer": "We have a library, sports complex, student center, computer labs, and research facilities."
+    },
+    {
+        "question": "campus location",
+        "answer": "Our main campus is in Lahore with satellite campuses in nearby town sargodha."
+    },
+    {
+        "question": "hostel facilities",
+        "answer": "We provide on-campus hostel facilities with separate accommodations for male and female students."
+    },
+    {
+        "question": "transportation services",
+        "answer": "University transportation services are available on multiple routes across the city."
+    },
+    {
+        "question": "campus security",
+        "answer": "The campus is fully secured with 24/7 security, CCTV monitoring, and controlled entry points."
+    },
+    {
+        "question": "medical facilities",
+        "answer": "On-campus medical and first-aid services are available for students and staff."
+    },
+    {
+        "question": "wifi availability",
+        "answer": "High-speed Wi-Fi is available across the entire campus."
+    },
+    {
+        "question": "cafeteria and dining",
+        "answer": "Multiple cafeterias and food courts are available offering a variety of meals."
+    },
+    {
+        "question": "campus accessibility",
+        "answer": "The campus is accessible for students with disabilities, including ramps and elevators."
+    }
+],
+
+        "financial": [
+    {
+        "question": "scholarships available",
+        "answer": "We offer merit-based scholarships, need-based financial aid, athletic scholarships, and departmental scholarships."
+    },
+    {
+        "question": "tuition fees",
+        "answer": "Undergraduate tuition is $15,000 per semester for in-state students and $25,000 for out-of-state students."
+    },
+    {
+        "question": "financial aid",
+        "answer": "We provide various financial aid options including grants, loans, work-study programs, and scholarships."
+    },
+    {
+        "question": "payment plans",
+        "answer": "Students can choose monthly or semester-based payment plans to manage tuition costs."
+    },
+    {
+        "question": "application deadline for financial aid",
+        "answer": "Financial aid applications should be submitted by March 31 for priority consideration."
+    },
+    {
+        "question": "refund policy",
+        "answer": "Tuition refunds are available based on the university’s withdrawal schedule."
+    },
+    {
+        "question": "international student financial aid",
+        "answer": "Limited scholarships and assistantships are available for international students."
+    },
+    {
+        "question": "work-study opportunities",
+        "answer": "Eligible students can work part-time on campus through our federal and institutional work-study programs."
+    },
+    {
+        "question": "hidden or additional fees",
+        "answer": "Additional fees may include housing, meal plans, lab fees, and student activity fees."
+    }
+]
+}
