@@ -27,7 +27,7 @@
 **SAP ID:** 70149236  
 **Section:** BSIET-5i  
 **Course:** Artificial Intelligence  
-**Instructor:** Sir Hamedoon  
+**Instructor:** Dr. Hamedoon  
 **Semester:** Spring 2026  
 **Project Type:** Individual Semester Project
 
@@ -416,26 +416,26 @@ curl -X POST http://localhost:5000/api/add_data \
 All working outputs are included in the `Output_Screenshots/` folder:
 
 ### 1. Server Running
-![Server Running](
+![Server Running](https://github.com/user-attachments/assets/68633e12-8f9d-4c2a-b525-3cde15b07d91)
 - Shows successful server startup
 - Displays trained Q&A pairs count
 - Vocabulary size information
 
 ### 2. Chat Interface
-![Chat Interface](https://github.com/user-attachments/assets/357d6c70-5ea7-4f1e-a692-2659dec23c72)
+![Chat Interface](https://github.com/user-attachments/assets/a275c481-48ff-4606-879d-73ac21699f03)
 - Clean, modern design
 - Input box for questions
 - Navigation menu
 
 ### 3. Chat Response
-![Response](https://github.com/user-attachments/assets/ca390460-77e7-4051-80de-7d48fd8156b6)
+![Response](https://github.com/user-attachments/assets/05ec3fbb-5a2d-4348-9f96-47c56f833019)
 - User question displayed
 - Bot answer with details
 - Similarity score shown
 - Category and matched question
 
 ### 4. Statistics Dashboard
-![Statistics](https://github.com/user-attachments/assets/c12ab41c-e62f-48c5-9357-5429ebc414b0)
+![Statistics](https://github.com/user-attachments/assets/aa2455b9-5c62-41c5-83db-7b0c47b7d6f9)
 - Total questions asked
 - Average similarity score
 - Knowledge base size
