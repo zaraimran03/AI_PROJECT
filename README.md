@@ -241,12 +241,10 @@ university-chatbot/
 │   ├── server_running.png
 │   ├── chat_interface.png
 │   ├── chat_response.png
-│   ├── statistics.png
-│   └── topics_view.png
 │
 ├── 📋 Project Report.pdf          # Complete documentation
 ├── 📖 README.md                   # This file
-└── 📦 requirements.txt            # Dependencies
+
 ```
 
 ---
