@@ -416,36 +416,30 @@ curl -X POST http://localhost:5000/api/add_data \
 All working outputs are included in the `Output_Screenshots/` folder:
 
 ### 1. Server Running
-![Server](Output_Screenshots/server_running.png)
+![Server Running](
 - Shows successful server startup
 - Displays trained Q&A pairs count
 - Vocabulary size information
 
 ### 2. Chat Interface
-![Chat Interface](Output_Screenshots/chat_interface.png)
+![Chat Interface](https://github.com/user-attachments/assets/357d6c70-5ea7-4f1e-a692-2659dec23c72)
 - Clean, modern design
 - Input box for questions
 - Navigation menu
 
 ### 3. Chat Response
-![Response](Output_Screenshots/chat_response.png)
+![Response](https://github.com/user-attachments/assets/ca390460-77e7-4051-80de-7d48fd8156b6)
 - User question displayed
 - Bot answer with details
 - Similarity score shown
 - Category and matched question
 
 ### 4. Statistics Dashboard
-![Statistics](Output_Screenshots/statistics.png)
+![Statistics](https://github.com/user-attachments/assets/c12ab41c-e62f-48c5-9357-5429ebc414b0)
 - Total questions asked
 - Average similarity score
 - Knowledge base size
 - Vocabulary information
-
-### 5. Topics View
-![Topics](Output_Screenshots/topics_view.png)
-- All categories listed
-- Questions per category
-- Organized knowledge base
 
 ---
 
