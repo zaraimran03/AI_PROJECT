@@ -582,7 +582,7 @@ This project is developed for **educational purposes** as part of an Artificial 
 
 **For questions or issues:**
 1. Create an issue in the GitHub repository
-2. Email: [your-email@university.edu]
+2. Email: zarachoudhry325@gmail.com or 70149236@student.uol.edu.pk
 3. Check the documentation in `Project Report.pdf`
 
 ---
